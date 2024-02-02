@@ -1,0 +1,8 @@
+- Max Flow Min Cut (求出最大流)
+- Busacker Gowen
+	- 最小值是不是0？
+		- 是！正常直接算！(Inkrementgraph, 从0 aktueller Fluß开始迭代)
+		- 不是！算出Ausgangsfluss (先是最大流，再是最长路的ε)再以此为基础接着算
+	- 考不考虑成本？
+		- 考虑！选成本小但是ε大的！
+		- 不考虑！选ε大的路径！
