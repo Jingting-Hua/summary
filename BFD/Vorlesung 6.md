@@ -22,7 +22,7 @@ unterschiedliche Typen mit teils charakteristischen Elementen und unterschiedlic
 ![[Pasted image 20240116050328.png]]
 ![[Pasted image 20240116050404.png]]
 ## 2 Zugängliche Grafiken
-- Grafiken = Barriere v.a. für Menschen mit **Blindheit** und **Sehbeeinträchtigung**
+- Grafiken => Barriere v.a. für Menschen mit **Blindheit** und **Sehbeeinträchtigung**
 - Auch für Menschen mit weiteren Beeinträchtigungen herausfordernd, z.B. Menschen mit **kognitiven Beeinträchtigungen**
 - **Kulturell** unterschiedliche Bedeutung von Grafiken (z.B. Farben, Leserichtung, etc.)
 - Zugang zu Grafiken unausweichlich für gleichberechtigte, gesellschaftliche Teilhabe, z.B. für Bildung, soziale Bereiche, Social Media, Kultur & Kunst…
@@ -377,6 +377,7 @@ Bsp.: TGA (Tactile Graphics Assistant)
 - Kontrolle des Ergebnisses ohne Ausdruck schwierig
 - Bsp. beim Thema "Diagramme"
 
+---
 ## 5 Taktile Interaktion - Interagieren mit taktilen Grafiken
 -> 注意记一下有哪些用于交互的技术
 
@@ -386,26 +387,109 @@ Bsp.: TGA (Tactile Graphics Assistant)
 - Unterscheidbarkeit der Elemente (max. 5 Texturen / Symbole / Linienstile)
 - muss erlernt werden -> hoher kognitiver Aufwand 
 
-**Ansatz**
-- multimodale Systeme-> Kombination verschiedener Ein- und Ausgabemöglichkeiten , z.B. haptischer und auditiver Elemente
-- Ansprechen verschiedener Sinne
-
-
 ### Audio-Taktile Ansätze
+- *multimodale* Systeme-> Kombination verschiedener Ein- und Ausgabemöglichkeiten , z.B. haptischer und auditiver Elemente
+- Ansprechen verschiedener Sinne
+- talking tactile tablet: 
+	- Berührungsempfindliches Tablet erlaubt akustische Rückmeldung bei Fingerkontakt
+	- Grafikverwaltung durch Barcodes
+![[Pasted image 20240202170631.png|400]]
 
+### Technologien
+viele Ansätze, um ***Interaktion*** zu ermöglichen:
+- *Videobasiertes Tracken* des Fingers bei der Exploration der Grafik
+- Verwendung *digitaler Stifter*, die Position erkennen
+- Eibetten von *RFID Tags*
+- 3D-Druck mit *leitfähigen Filamenten* (导电丝)
 
+### Technik der Interaktion: 
+#### AuthOMathic Block System
+> Def: taktile/haptische Interaktionstechniken durch Legen von *Blöcken mit Braille-Beschriftung*
+- grafische Anordnung wird durch Rahmen auf IVEO gefördert.
+- Identifikation der Blöcke am Lesegerät erforderlich.
+- Förderung der Kollaboration zwischen sehenden und blinden Erstellenden durch visuelle Darstellung.
+![[Pasted image 20240202172023.png|400]]
 
+#### Taktile Displays
+- unterschiedliche Auflösung 
+- Ein- und Ausgabemöglichkeiten (multimodal: Toucheingabe, Sprachausgabe...)
+- ![[Pasted image 20240202172303.png|300]]
+- ![[Pasted image 20240202172314.png|500]]
 
+#### Projekt HyperBraille
+HyperBraille Display
+- 120 * 60 Stifte (2.5mm Punktabstand)
+- berührungsempfindlich: 2 Stellen / Modul
+- touchsensitiv (multitouch)
+- Sprachausgabe
 
+**Forschungsfragen:**
+- Wie können taktile Displays gewinnbringend eingesetzt werden?
+- Welche Interaktionskonzepte eigenen sich für taktile Displays?
+- Wie können *Fenstersysteme* mit taktilen Displays dargestellt werden?
 
+**Eigenschaften:**
+- Konzept zur taktilen Darstellung und Interaktion mit Anwendungen (Fenstersystemen)
+- Evaluation mit der Zielgruppe innerhalb von empirischen Studien
+- Unterstützung thematischer Ansichten für verschiedene Anwendungsfälle
+- äquidistantes Braille erfordert Änderungen er Lesegewohnheiten
+![[Pasted image 20240202175115.png|350]]
 
+HyperBraille Fenstersystem:
+![[Pasted image 20240202175205.png|450]]
 
+**注意:** 结合下图和学过的内容, 思考怎么评估系统的好坏, 这个图不用背
+![[Pasted image 20240202175424.png]]
 
+## 6 Zeichensysteme
+> Zeichnen ist schwierig, erfordert handwerkliches Können
+![[Pasted image 20240202175543.png|300]]
 
+Problem: kein Feedback des Gezeichneten
 
+**Ansatz:** Entwicklung von *Werkzeugen* zur Unterstützung des Zeichenprozesses.
 
+### a) Analoge Werkzeuge
+知道有这些工具就行
 
+![[Pasted image 20240202175916.png|400]]
+![[Pasted image 20240202175951.png|400]]
+![[Pasted image 20240202180015.png|450]]
+![[Pasted image 20240202180047.png|450]]
+![[Pasted image 20240202180219.png|450]]
 
+### b) digitale Werkzeuge - Zeichnen durch Programmieren
+> Braille-Buchstaben werden zu Bildpunkten
+
+![[Pasted image 20240202180505.png]]
+
+#### BPLOT 
+- Erzeugung von Ausdrucken für Brailledrucker mittels *plotter control language*
+	- keine Überprüfung während des Zeichnens möglich
+- Abpausen von taktilen Objekten über Touchpad
+- ![[Pasted image 20240202180744.png]]
+#### IC2D (integrated communication 2 draw)
+- Navigation von Malen auf dem Bildschirm mit Hilfe von Sprachausgabe und Musik
+- Punktauswahl durch rekursives Schema basierend auf 3 * 3 Gitter (Telefontasten) -> Bedienung durch Tasten 1-9 bzw. Pfeilnavigation
+- ![[Pasted image 20240202181356.png]]
+
+#### Taktile Displays
+- erlauben Freihandzeichen
+- Zugang zu Mathematik
+- Eingabefläche = Ausgabefläche
+- ![[Pasted image 20240202181706.png|450]]
+#### 3D - Drucker
+**Line Space**
+- Erkundung großflächiger taktiler Inhalte
+- Steuerung eines 3D-Druckers mit Gesten oder Sprache
+- ermöglicht direkte Interaktion
+- ![[Pasted image 20240202181849.png|400]]
+
+### Zusammenfassung
+|  | Analog | Digital |
+|----| --------|-------|
+|Pro | - schnell und einfach <br>- günstig <br>- detaillierte und naturgetreue Darstellung möglich |- gute Fehlerkorrektur<br>- hohe Veränderbarkeit und Reproduzierbarkeit<br>- leichte Distribution | 
+|Kontra |- schwierige Fehlerkorrektur<br>- schwer reproduzierbar<br>- wenig Unterstützung bei **Zeichnen** |- erfordert hohe kognitive Ressourcen<br>- begrenztes Anwendungsgebiet<br>- Spezialequipment (Hardware) notwendig -> Kosten  |
 
 
 

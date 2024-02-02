@@ -7,7 +7,7 @@ MCI 最后一个不考
 
 ## Wanjin
 BFD: 
-- [ ] VL 5 XML
+- [x] VL 5 XML
 - [ ] VL 6 Grafiken
 
 ## Jingting
