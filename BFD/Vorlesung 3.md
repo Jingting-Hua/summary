@@ -1,11 +1,9 @@
-
 # Evaluieren mit Benutzern
 
 - Labortest: Thinking-Lound-Potokoll
 - Remote Usability Test
 - Mockup/Prototyp
 - E-mail (E-Mail für blinde Menschen gut geeignet: da Unterschrift und Konsenserklärung einholen ist möglich)
-
 ## Manuelle  Evaluation( WAVE Toolbar)
 
 ### Kriterien
