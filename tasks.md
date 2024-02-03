@@ -12,11 +12,11 @@ BFD:
 - [x] Übung 123
 
 ## Jingting
-- [ ] MCI 6.Vorlesung
-- [ ] BFD VL 4 Multimedia
+- [x] MCI 6.Vorlesung
+- [x] BFD VL 4 Multimedia
 
 ## Xin
-- [ ] BFD: VL 7: PDF
+- [x] BFD: VL 7: PDF
 
 # Git 常规流程
 如果其他人已经在远程仓库进行了修改，而你本地也有一些修改需要提交，你需要先将远程仓库的最新修改拉取到本地，然后再将你的修改推送到远程仓库。以下是一般的步骤：
@@ -37,3 +37,17 @@ BFD:
     这里同样假设你要推送到 `master` 分支。替换为你当前工作的分支名。
     
     如果其他人在你拉取远程修改之后已经推送了新的修改，可能会发生推送失败的情况。这时你需要再次执行 `git pull` 操作，解决任何可能的冲突，然后才能成功推送。
+
+# Wanjin BFD Nachverbessern Plan
+- [ ] **VL 1**: 2h 40 min
+- [ ] **VL 2**: 4h
+- [ ] **VL 3**: 1.5h
+**VL 4**: 3h
+**VL 5**: 0
+**VL 6**: 3h
+**VL 7**: 1.5h
+
+
+
+
+
