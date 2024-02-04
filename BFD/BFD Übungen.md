@@ -138,7 +138,7 @@ Nummerierte Listen werden mit der Vorlage *Listennr*. formatiert.
 
 ## Tabellen
 -  Sollten immer als Datentabelle angelegt werden; Bitte nicht als Bild importieren!
--  ==Tabellen sollten einen **Alternativtext** aufweisen, der den *Zweck* der Tabelle beschreibt:==
+-  Tabellen sollten einen **Alternativtext** aufweisen, der den *Zweck* der Tabelle beschreibt:
 	- `Rechtsklick auf Tabelle → Form formatieren → Größe und Eigenschaften → Alternativte`
 -  Um Tabellen für ==blinde Nutzer== gut wahrnehmbar umzusetzen, sollte darauf geachtet werden, dass **diese einfach strukturiert sind** und eine **Kopfzeile** besitzen. Die jeweiligen ***Spaltenüberschriften*** sollten aussagekräftig, eindeutig und ohne Abkürzungen benannt sein.
 -  Bitte nutzen Sie keine sogenannten „Layouttabellen“, also Tabellen, die nur für die grafische Positionierung von Inhalten dienen. ==Diese sollten unbedingt vermieden werden. Tabellen sollten nur zur strukturierten Darstellung von Datensätzen eingesetzt werden==
