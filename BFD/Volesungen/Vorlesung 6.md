@@ -17,6 +17,7 @@ aliases:
 
 
 ## Page Objekte
+![[Pasted image 20240206135545.png]]
 
 - Pfadobjekte: Kann als Clippingpfad benutzt werden
 - Textobjekte
@@ -25,7 +26,8 @@ aliases:
 -  Inline-Images: Eine Möglichkeit um kleine Grafiken innerhalb von PDF einzubinden.
 - Shading Objekte: Shading Objekte bestehen aus einem beliebigen Umriss
 - Annotationen
-	- Text Annotation: Die Annotation wird im geschlossenen Zustand als Icon dargestellt (Kategorien Comment, Help oder Note)
+	- ![[Pasted image 20240206135738.png]]
+	- Text Annotation: Die Annotation wird im geschlossenen Zustand als Icon dargestellt (<mark style="background: #ADCCFFA6;">Kategorien</mark> Comment, Help oder Note)
 	- Free Text Annotation: <mark style="background: #ADCCFFA6;">ständig</mark> auf der Seite angezeigt
 	- Line Annotation: eine einfache gerade Linie
 - Verweise (Hyperlinks)
@@ -48,11 +50,9 @@ aliases:
 
 - [什么是PDF/UA](https://pdfmailmerger.com/zh-hans/blog/%E4%BB%80%E4%B9%88%E6%98%AFpdf-ua%EF%BC%9F/#%25e4%25bb%2580%25e4%25b9%2588%25e6%2598%25afpdfua)
 - Bf. wird durch Prüfprotokoll (Matterhorn) abgesichert (2015)
-- Checkpoints (31 Gruppen) betreffen auch spezielle Inhaltsarten
-	- mathematische Formeln
-	- laufende Seitenüberschriften und -unterschriften
-	- Verweise
-	- Navigation
+![[Pasted image 20240206135957.png]]
+- Checkpoints (31 Gruppen) betreffen auch spezielle Inhaltsarten und Schnellprüfung
+	- ![[Pasted image 20240206135936.png]]
 
 ## PDF/UA vs. WCAG
 
@@ -77,10 +77,12 @@ aliases:
 - Figure `<Figure>`: 用于标记文档中的图像或图表。
 - **Block-level Elemente: Container**
 	- Division element `<Div>`: Ein generischer Block oder eine Gruppe von Block-level Elemente
-- `<Form>`für Formularelemente
-- `<Link>`für Veweise
-- `<Note>`für Annotationen
-- `<Reference>` für Daten innerhalb des Dokuments
+- Spezielle Tags
+	- `<Figure>`zeichnet Bilder im Text aus
+	- `<Form>`für Formularelemente
+	- `<Link>`für Veweise
+	- `<Note>`für Annotationen
+	- `<Reference>` für Daten innerhalb des Dokuments
 - nur wenige Screenreader unterstützen PDF (Jaws 7)
 
 
@@ -178,10 +180,29 @@ TingTun prüft PDF gegen WCAG 2.0
 ![[Pasted image 20240203160218.png]]
 
 
-# PowerPoint: Prüfen auf Barrierefreiheit
+### Verweise 
+
+- Verweise werden vor den allgemeinen Tags erstellt
+- Automatische Erkennung aus OCR Ergebnis möglich (Menü: Erweitert/Verknüpfungen/alle URL erstellen)
+- Verweise müssen explizit beschriftet werden (Optionen/Tag aus Auswahl erstellen/Typ „Verweis“
+
+# Editoren in der Praxis
+
+- LaTeX
+- Microsoft
+	- Word, PowerPoint, Excel
+- GoogleDoc
+## Mark-up Vergleich: Überschriften 
+
+- ![[Pasted image 20240206141123.png]]
+- ![[Pasted image 20240206141149.png]]
+
+# [[BFD/Volesungen/BFD Übungen#Barrierefreie Dokumente mit Word & PowerPoint|PowerPoint: Prüfen auf Barrierefreiheit]]
 
 - Bilder müssen mit Alternativ beschrieben werden (Grafik formatieren/Web)
 - Texte werden nicht als Überschriften strukturiert, evt. manuelle Überarbeitung notwendig
+- Masterfolienlayout für Schmuckgrafiken nutzen
+- Im PDF werden trotzdem einige Fehler möglich:
 
 
 # Word: Exportieren als PDF
