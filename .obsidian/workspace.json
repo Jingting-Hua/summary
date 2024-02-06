@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9a8eb9d8378915bd",
+        "id": "fe30b39cbf9f2f12",
         "type": "tabs",
         "children": [
           {
-            "id": "35900eaae77684b3",
+            "id": "294805400542d033",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BFD/Volesungen/Vorlesung 6.md",
+                "file": "BFD/Volesungen/BFD Übungen.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "31825d85557313ec",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BFD/Volesungen/Vorlesung 6.md",
+                "file": "BFD/Volesungen/BFD Übungen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BFD/Volesungen/Vorlesung 6.md",
+                "file": "BFD/Volesungen/BFD Übungen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BFD/Volesungen/Vorlesung 6.md"
+                "file": "BFD/Volesungen/BFD Übungen.md"
               }
             }
           },
@@ -172,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -194,9 +193,18 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "0ff1a39bf5621652",
+  "active": "294805400542d033",
   "lastOpenFiles": [
+    "BFD/Volesungen/Vorlesung 6.md",
     "BFD/Volesungen/Vorlesung 5.md",
+    "BFD/Volesungen/BFD Übungen.md",
+    "BFD/BFD Übungen.md",
+    "BFD/Volesungen/attachments/Pasted image 20240206141149.png",
+    "BFD/Volesungen/attachments/Pasted image 20240206141123.png",
+    "BFD/Volesungen/attachments/Pasted image 20240206135957.png",
+    "BFD/Volesungen/attachments/Pasted image 20240206135936.png",
+    "BFD/Volesungen/attachments/Pasted image 20240206135738.png",
+    "BFD/Volesungen/attachments/Pasted image 20240206135545.png",
     "BFD/Volesungen/Vorlesung 4.md",
     "BFD/Volesungen/attachments/Pasted image 20240206133554.png",
     "BFD/Volesungen/Vorlesung 3 - Evaluation.md",
@@ -205,18 +213,10 @@
     "BFD/Volesungen/attachments/Pasted image 20240206124604.png",
     "BFD/Volesungen/Vorlesung 1.md",
     "BFD/Volesungen/Vorlesung 1 - Nutzende.md",
-    "BFD/Volesungen/BFD Übungen.md",
-    "BFD/Volesungen/Vorlesung 6.md",
     "BFD/Volesungen/Vorlesung 3.md",
     "BFD/Volesungen/Vorlesung 2 - Barrierefreies Web.md",
     "BFD/Volesungen/Vorlesung 2.md",
     "BFD/Vorlesung 3.md",
-    "BFD/Volesungen/attachments/Pasted image 20240206115040.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206114424.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206113602.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206113424.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206112258.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206112157.png",
     "MCI/Übungen/Übung 5 Evaluation und Statistische Grundlage.md",
     "MCI/Übungen/Übung 4 Interaktionsdesign und Prototyping.md",
     "MCI/Übungen/Übung 3 Benutzendenanalyse.md",
