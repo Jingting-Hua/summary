@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCI/Vorlesungen/6. Vorlesung.md",
+                "file": "BFD/Volesungen/Vorlesung 4 - Multimedia.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": true
@@ -23,16 +23,16 @@
         ]
       },
       {
-        "id": "dde95789d75dfb97",
+        "id": "4ddabc06c2ad60d1",
         "type": "tabs",
         "children": [
           {
-            "id": "f65867bab416d803",
+            "id": "f5d78fa3d094d29b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MCI/Vorlesungen/6. Vorlesung.md",
+                "file": "BFD/Volesungen/Vorlesung 4 - Multimedia.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SVG",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +93,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MCI/Vorlesungen/6. Vorlesung.md",
+                "file": "BFD/Volesungen/Vorlesung 4 - Multimedia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MCI/Vorlesungen/6. Vorlesung.md",
+                "file": "BFD/Volesungen/Vorlesung 4 - Multimedia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MCI/Vorlesungen/6. Vorlesung.md"
+                "file": "BFD/Volesungen/Vorlesung 4 - Multimedia.md"
               }
             }
           },
@@ -213,12 +212,23 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "fdbc100b50074ec5",
+  "active": "f5d78fa3d094d29b",
   "lastOpenFiles": [
+    "BFD/Volesungen/attachments/Pasted image 20240206155553.png",
+    "BFD/Volesungen/Vorlesung 4 - Multimedia.md",
+    "BFD/Volesungen/attachments/Pasted image 20240206214401.png",
+    "BFD/Volesungen/Vorlesung 5 - Zugängliche Graphiken.md",
+    "BFD/Volesungen/Vorlesung 1 - Nutzende.md",
+    "BFD/Volesungen/Vorlesung 2.md",
+    "BFD/Volesungen/Vorlesung 2 - Barrierefreies Web.md",
+    "BFD/Volesungen/Vorlesung 3.md",
+    "BFD/Volesungen/Vorlesung 3 - Evaluation.md",
+    "BFD/Volesungen/Vorlesung 6 - PDF.md",
+    "BFD/Volesungen/BFD Übungen.md",
+    "MCI/Vorlesungen/6. Vorlesung.md",
     "MCI/Vorlesungen/attachments/Pasted image 20240206194251.png",
     "MCI/Vorlesungen/attachments/Pasted image 20240206194027.png",
     "MCI/Vorlesungen/2.Vorlesung.md",
-    "MCI/Vorlesungen/6. Vorlesung.md",
     "MCI/Vorlesungen/attachments/Pasted image 20240206193424.png",
     "MCI/Vorlesungen/attachments/Pasted image 20240206193411.png",
     "MCI/Vorlesungen/attachments/Pasted image 20240206192857.png",
@@ -228,24 +238,13 @@
     "MCI/Vorlesungen/5. Vorlesung.md",
     "MCI/Vorlesungen/attachments/Pasted image 20240206191925.png",
     "MCI/Vorlesungen/attachments/Pasted image 20240206190816.png",
-    "MCI/Vorlesungen/attachments/Pasted image 20240206190704.png",
-    "MCI/Vorlesungen/attachments/Pasted image 20240206190548.png",
     "MCI/Vorlesungen/4. Vorlesung.md",
     "MCI/Vorlesungen/3.Vorlesung.md",
-    "BFD/Volesungen/Vorlesung 2.md",
-    "BFD/Volesungen/Vorlesung 2 - Barrierefreies Web.md",
-    "BFD/Volesungen/Vorlesung 3.md",
     "BFD/Volesungen/Vorlesung 1.md",
-    "BFD/Volesungen/Vorlesung 1 - Nutzende.md",
-    "BFD/Volesungen/Vorlesung 3 - Evaluation.md",
-    "BFD/Volesungen/Vorlesung 4 - Multimedia.md",
-    "BFD/Volesungen/Vorlesung 5 - Zugängliche Graphiken.md",
-    "BFD/Volesungen/Vorlesung 6 - PDF.md",
     "MCI/Vorlesungen/1.Vorlesung.md",
     "BFD/Volesungen/Vorlesung 6.md",
     "BFD/Volesungen/Vorlesung 5.md",
     "BFD/Volesungen/Vorlesung 4.md",
-    "BFD/Volesungen/BFD Übungen.md",
     "BFD/未命名.md",
     "BFD/BFD Übungen.md",
     "BFD/Vorlesung 3.md",

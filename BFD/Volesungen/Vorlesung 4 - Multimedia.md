@@ -19,44 +19,53 @@ aliases:
 # Fallstudie 1: DAISY Hörbücher
 -> Digital Accessible Information System
 
-## DAISY enthält:
+## DAISY enthält (Prototyp):
 - package file
 	- package identity
 	- metadata
-	- Manifest
-	- spine, tours, guide
+	- Manifest (文件清单)
+	- spine, tours, guide 
 - Text des Buches (einschließlich Mark-up gemäß OpenBook)
 - die entsprechenden Audio-Dateien (Sprecher od. Synthetische Stimme)
 - SMIL Datei
 - NCX Datei
 
-## XHTML und SMIL - Datei
+## XHTML und SMIL (Dasisy 2.0/3.0)- Datei
+
 - **SMIL Datei** zur Verknüpfung von Audio (MP3) und Text
 - **Ressourcen Datei** mit *zusätzlichen Medien*, die dem Leser nicht zugänglich sein sollen
 - *einer Datei zur navigation control (NCX)* mit allen Lesezeichen zu denen der Leser navigieren kann
 
-## wichtige Elemente in DAISY
+## wichtige Elemente in DAISY (3.0)
 ### a) Struktur
+
 - audio file
-- synchronization file
-- navigation control file 
-- resource file 
+- synchronization file ->**SMIL Datei**
+- navigation control file ->*einer Datei zur navigation control (NCX)*
+- resource file ->**Ressourcen Datei** mit *zusätzlichen Medien*, die dem Leser nicht zugänglich sein sollen
 - presentation style file (CSS)
 - transform file (XSL für GUI, Audio, und Braille)
+- XSL 将不同的XML格式的信息转化成不同的输出格式
 
 ### b) Inhalte
+
 - <\sent> -> Sätze, <\p> -> Absätze
 - <\level1> - <\level6> -> Buchstrukturen (Kapitel, Abschnitte)
 - <\img> und <\imggroup> -> Bilder und deren Beschreibung
 - <\pagenum> -> Seitenzahlen
 
 ### Beispielaufbau
+
 ![[Pasted image 20240206153533.png]]
 .opf -> package file
 .smil -> Synchronisation
 .xml -> Text
 .mp3 -> Audio
+
+
+
 ## Lesetechniken für DAISY
+
 - Text lesen
 - fast forward , reverse
 - variable Lesegeschwindigkeit
@@ -69,30 +78,42 @@ aliases:
 - Buchstabieren, ......
 
 ## DAISY E-Books Timeline
-Formate in DAISY sind Auszeichnungen wie `dtb:audio` und teilweise aus verschiedenen Modulen des Standards
+- 是一种模块化标准
+- 用SMIL 3.0配置Audio文件，是一种标记形式
+- Formate in DAISY sind Auszeichnungen wie `dtb:audio` und teilweise aus verschiedenen Modulen des Standards
 ![[Pasted image 20240206153316.png]]
 
-## DT Book
-一本书通常包含以下部分: 
-![[Pasted image 20240206154022.png]]
--> 将这些不同内容使用mark up转换成DAISY格式, 从而适配专用的阅读器
 
-### Markup des Front Matter
+## DTDs für DAISY Bücher
+定义了XML文档的结构以及允许的元素
+- DTBook DTD
+- NCX DTD
+- ...
+
+## DT Book
+一种用于数字化图书的XML标准: 
+![[Pasted image 20240206154022.png]]
+-> 将这些不同内容使用mark up转换成DT Book格式。
+
+### Markup des Front Matter (前言)
 ![[Pasted image 20240206154148.png]]
 注意markup和上图的一一对应, 以及tag的用法, 大体了解就行
 ![[Pasted image 20240206154410.png]]
 ### Markup des Body Matter
 - meist durch Kapitel, Abschnitte und Unterabschnitte, hier "**parts**" genannt
+- `pagenum`定义页码
 - Ein **Part** wird durch <\level> beschrieben
+- class-Attribute chapter, section, subsection
 - ![[Pasted image 20240206154607.png]]
 ### Markup des Rare Matter
 一本书的最后部分, tag跟前面一样
 了解就行
+![[Pasted image 20240206214401.png]]
 
 ## DAISY und Mathematik
 ![[Pasted image 20240206155605.png|400]]
 ![[Pasted image 20240206155553.png]]
-
+-公式以Box模型储存在XML文档中
 # Fallstudie 2: Mathematik
 
 | Entwurfskriterium | Mathematik-Interaktion                                                                                                                  |
@@ -231,7 +252,8 @@ A multimodal multimedia navigation and reading system
 
 
 ![[Pasted image 20240202184940.png]]
-`<span>` verbietet für Inhalte "Container" zur verfügung
+`<span>` verbietet für <mark style="background: #ADCCFFA6;">Inhalte</mark> "Container" zur verfügung (css+JS)
+`<div>` 通常用于组织和布局页面的结构。
 
 
 # Techniken für Benutzerprofile
