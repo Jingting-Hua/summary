@@ -239,7 +239,7 @@ Ansicht → Gliederungsansicht
 ![[Pasted image 20240204210340.png]]
 
 
-# Übung 3 - [[Vorlesung 5|Grafik]]
+# Übung 3 - [[Vorlesung 5 - Zugängliche Graphiken|Grafik]]
 
 
 

@@ -339,7 +339,7 @@ Erkundung rundum einen Point-of-Interest
 ### Erstellung Taktiler Grafiken
 
 - häufig aufwendiger, manueller Prozess
-- [[Vorlesung 5#Richtlinien （触觉图的Richtlinien）|Richtlinien(触觉图的Richtlinien)]] müssen eingehalten werden
+- [[Vorlesung 5 - Zugängliche Graphiken#Richtlinien （触觉图的Richtlinien）|Richtlinien(触觉图的Richtlinien)]] müssen eingehalten werden
 - häufig als Transkription von visuellen Grafiken
 - **Optimalfall**: Autor erstellt taktile und visuelle Grafik
 ![[Pasted image 20240120164130.png]]
