@@ -4,17 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "fe30b39cbf9f2f12",
+        "id": "c8babd725a16e977",
         "type": "tabs",
         "children": [
           {
-            "id": "294805400542d033",
+            "id": "a59c78404b4e58e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BFD/Volesungen/BFD Übungen.md",
+                "file": "MCI/Vorlesungen/6. Vorlesung.md",
                 "mode": "preview",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "dde95789d75dfb97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f65867bab416d803",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MCI/Vorlesungen/6. Vorlesung.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": true
               }
@@ -49,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "SVG",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +93,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BFD/Volesungen/BFD Übungen.md",
+                "file": "MCI/Vorlesungen/6. Vorlesung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BFD/Volesungen/BFD Übungen.md",
+                "file": "MCI/Vorlesungen/6. Vorlesung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BFD/Volesungen/BFD Übungen.md"
+                "file": "MCI/Vorlesungen/6. Vorlesung.md"
               }
             }
           },
@@ -193,45 +213,45 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "294805400542d033",
+  "active": "fdbc100b50074ec5",
   "lastOpenFiles": [
-    "BFD/Volesungen/Vorlesung 6.md",
-    "BFD/Volesungen/Vorlesung 5.md",
-    "BFD/Volesungen/BFD Übungen.md",
-    "BFD/BFD Übungen.md",
-    "BFD/Volesungen/attachments/Pasted image 20240206141149.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206141123.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206135957.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206135936.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206135738.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206135545.png",
-    "BFD/Volesungen/Vorlesung 4.md",
-    "BFD/Volesungen/attachments/Pasted image 20240206133554.png",
-    "BFD/Volesungen/Vorlesung 3 - Evaluation.md",
-    "BFD/Volesungen/attachments/Pasted image 20240206132656.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206131524.png",
-    "BFD/Volesungen/attachments/Pasted image 20240206124604.png",
+    "MCI/Vorlesungen/attachments/Pasted image 20240206194251.png",
+    "MCI/Vorlesungen/attachments/Pasted image 20240206194027.png",
+    "MCI/Vorlesungen/2.Vorlesung.md",
+    "MCI/Vorlesungen/6. Vorlesung.md",
+    "MCI/Vorlesungen/attachments/Pasted image 20240206193424.png",
+    "MCI/Vorlesungen/attachments/Pasted image 20240206193411.png",
+    "MCI/Vorlesungen/attachments/Pasted image 20240206192857.png",
+    "MCI/Vorlesungen/attachments/Pasted image 20240206192647.png",
+    "MCI/Vorlesungen/attachments/Pasted image 20240206192456.png",
+    "MCI/MCI Übung ZF.md",
+    "MCI/Vorlesungen/5. Vorlesung.md",
+    "MCI/Vorlesungen/attachments/Pasted image 20240206191925.png",
+    "MCI/Vorlesungen/attachments/Pasted image 20240206190816.png",
+    "MCI/Vorlesungen/attachments/Pasted image 20240206190704.png",
+    "MCI/Vorlesungen/attachments/Pasted image 20240206190548.png",
+    "MCI/Vorlesungen/4. Vorlesung.md",
+    "MCI/Vorlesungen/3.Vorlesung.md",
+    "BFD/Volesungen/Vorlesung 2.md",
+    "BFD/Volesungen/Vorlesung 2 - Barrierefreies Web.md",
+    "BFD/Volesungen/Vorlesung 3.md",
     "BFD/Volesungen/Vorlesung 1.md",
     "BFD/Volesungen/Vorlesung 1 - Nutzende.md",
-    "BFD/Volesungen/Vorlesung 3.md",
-    "BFD/Volesungen/Vorlesung 2 - Barrierefreies Web.md",
-    "BFD/Volesungen/Vorlesung 2.md",
+    "BFD/Volesungen/Vorlesung 3 - Evaluation.md",
+    "BFD/Volesungen/Vorlesung 4 - Multimedia.md",
+    "BFD/Volesungen/Vorlesung 5 - Zugängliche Graphiken.md",
+    "BFD/Volesungen/Vorlesung 6 - PDF.md",
+    "MCI/Vorlesungen/1.Vorlesung.md",
+    "BFD/Volesungen/Vorlesung 6.md",
+    "BFD/Volesungen/Vorlesung 5.md",
+    "BFD/Volesungen/Vorlesung 4.md",
+    "BFD/Volesungen/BFD Übungen.md",
+    "BFD/未命名.md",
+    "BFD/BFD Übungen.md",
     "BFD/Vorlesung 3.md",
     "MCI/Übungen/Übung 5 Evaluation und Statistische Grundlage.md",
     "MCI/Übungen/Übung 4 Interaktionsdesign und Prototyping.md",
-    "MCI/Übungen/Übung 3 Benutzendenanalyse.md",
-    "MCI/Übungen/Übung 2 Kontextanalyse.md",
-    "MCI/Übungen/Übung 1 User-Centred Design.md",
-    "MCI/Vorlesungen/2.Vorlesung.md",
-    "MCI/Vorlesungen/1.Vorlesung.md",
-    "MCI/MCI Übung ZF.md",
-    "tasks.md",
-    "MCI/Vorlesungen/6. Vorlesung.md",
-    "MCI/Vorlesungen/5. Vorlesung.md",
-    "MCI/Vorlesungen/4. Vorlesung.md",
-    "MCI/Vorlesungen/3.Vorlesung.md",
     "MCI/Übungen/attachments",
-    "Data Science/Dic.md",
     "summary/MCI",
     "summary",
     "MCI/attachments",
