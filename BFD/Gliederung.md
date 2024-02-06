@@ -1,6 +1,6 @@
 - [[Vorlesung 1 - Nutzende|Teil 1: Benutzer mit besonderen Anforderungen: sehen, sprechen, hören, denken, bewegen]]
 - [[Vorlesung 2 - Barrierefreies Web|Teil 2: Barrierefreies Web]]
-- Teil 3: Evaluierung der Barrieren
+- [[Vorlesung 3 - Evaluation|Teil 3: Evaluierung der Barrieren]]
 - Teil 4: Mathematik, Hörbücher, Multimedia
 - Teil 5: Taktile Grafiken
 - Teil 6: PDF
