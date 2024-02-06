@@ -252,7 +252,7 @@ A multimodal multimedia navigation and reading system
 
 
 ![[Pasted image 20240202184940.png]]
-`<span>` verbietet für <mark style="background: #ADCCFFA6;">Inhalte</mark> "Container" zur verfügung (css+JS)
+`<span>` verbietet für <mark style="background: #ADCCFFA6;">Inhalte</mark> "Container" zur verfügung (css+JS),来提供冗余信息
 `<div>` 通常用于组织和布局页面的结构。
 
 
