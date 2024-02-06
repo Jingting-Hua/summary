@@ -116,30 +116,47 @@ Laden und Parsen einer Seite ist zeitintensiv -> Multithreaded Crawling (加快�
 - Es entsteht ein *Hypertext Probabilistic Automata* (**HPA**)，der **HPA** die Navigationsmuster eines Benutzers beschreibt und die Übergangswahrscheinlichkeiten geben wie häufig der Benutzer eine Verknüpfung verfolgt hat.
 ![[Pasted image 20240205121708.png]]
 
+### Auswahl der Werkzeugen 
+- TAW
+	- Mehrere Darstellungsformen
+	- Nach Richtlinien grupiert
+![[Pasted image 20240206113424.png]]
+- Monitoring Systeme
+	- Monitoring von Barrieren über einen Zeitraum
+![[Pasted image 20240206113602.png]]
 ### Beschreibung von Richtlinien
-**![[Pasted image 20240205121811.png]]**
-- MAUVE (Mauve erlaubt **eigene** Regeln anzugeben)
 
-### Beschreibungssprachen
-- Beschreibungssprachen: Universal Guideline Language (UGL) (自动和手动的权重: integrierte Berichtserzeugung)
-- Beschreibungssprachen: Evaluation and Report Language vom W3C ( 谁用了什么规则测试了什么得到了什么)
+- MAUVE (Mauve erlaubt eigene Regeln anzugeben)
+
+- Beschreibungssprachen: 
+	- <mark style="background: #ADCCFFA6;">XML-Prüfregeln</mark> in Nauticus bzw. Magenta für Usability Guidlines for the Blind [Leporini]
+	- ![[Pasted image 20240206114424.png]]
+	- Universal Guideline Language (UGL) (自动和手动的权重: integrierte Berichtserzeugung)
+		- integrierte Berichtserzeugung
+	- Beschreibungssprachen: Evaluation and Report Language vom W3C durch TAW unterstützt ( 谁用了什么规则测试了什么得到了什么)
+		- ![[Pasted image 20240206115040.png]]
+		- Wer hat den Test durchgeführt (Assertor)
+		- Welche Resource wurde getestet (Test Subject)
+		- Welches Kriterium wurd angewendet (Test criterion)
+		- Was war das Ergebnis (Test Result)
 
 
 # E-Methode: Simulation
-Simulation von Präsentation bildet Wahrnehungsdefizit e nach
-- Sehbehinderung (Netbeans IDE)
+Simulation von Präsentation bildet Wahrnehungsdefizite nach
+- Sehbehinderung 
+	- (Netbeans IDE)
+		-  Simulation von Netzhautveränderungen
+		- Parkinson
+		- Dyslexie
+	- Simulation der Effekte für die visuelle Präsentation
+		- VIS simuliert
 - Hörbehinderung 
-- physikalischer Behinderung
-
-Informationssuche kann modelliert werden
-
-Tools für Sehbehinderung: 
-- aDesigner, 
-- Netbeans IDE, Simulation von:
-	- Netzhautveränderungen (Farbenblindheit, Linsentrübung, Netzhautausfall)
-	- Parkinson : Zitter
-	- Dyslexie
-	- keine dynamischen Abläufe
+	- Simulation der akustischen Wahrnehmung
+- Sim. physikalischer Behinderung 
+	- Modellierung des Verhaltens bei der Eingabe per sequentieller Tastatur („Scanning keyboard“)
+		- Wahrnehmungsmodell 
+		- Kognitives Modell entscheidet auf Basis visueller Wahrnehmung
+		- 8 Richtungen werden im motorischen Modell berücksichtigt
 # E-Methode: Barrier Walkthrough
 > **Heuristische** Methode um Barrierefreiheit zu evaluieren
 > Grundidee: Liste von typischen Fehlern überprüfen, Reliabilität betonen

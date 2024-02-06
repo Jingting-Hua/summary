@@ -1,4 +1,4 @@
-## [[Übung 1#Lieferanten auswahl|Auswahl und Gewichtung der 9 Bewertungskriterien]]
+## [[Beschaffungsmanagement/Übung 1#Lieferanten auswahl|Auswahl und Gewichtung der 9 Bewertungskriterien]]
 ]]
 1. Mengenleistung
 2. Qualitätsleistung

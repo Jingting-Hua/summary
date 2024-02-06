@@ -14,20 +14,67 @@ aliases:
 | Lernbarkeit        | Einsatz existierender BrailleNotationen oder natürlicher Sprache                                                                       |
 | Adaptierbarkei                   |    Einsatz der BrailleNotation/Sprechweise je nach Kenntnissen des Lesers                                                                                                                                     |
 
+## Brailleschriften und Mark-up (用于数学符号的盲文)
+
+- Marburger Mathematik Schriftgröße 
+	- 6-Punktschrift
+- ASCII Mathematikschr. (AMS)
+	- 8 Punktschrift mit sieben Punkten
+	- Verwendet in Uni KA und TUD
+- frz., engl., span., russ. Schrift für Mathematik, Nemeth-Code in USA
+- Stuttgarter Schrift (SMSB)
+	- 8 Punktschrift
+## Braille, Sprache und Klänge 
+
+- Problem: Mathematik wird als Grafik behandelt
+- Dynamisches Braille: Terme ersetzen durch Termbegriffe
+- Sprachausgabe 
+- Klangausgabe
+## Projekt MATHS (1994-1997)
+- Mathematik lesen und schreiben
+- integriert mit
+	- Brailleausgabe/Brailleeingabe
+	- Sprachausgabe/Klangausgabe/S pracheingabe (Pilotstudie)
+	- mit Baum Modell
+	- ![[Pasted image 20240206131524.png]]
+		- fraction
+		- numera : 分母
+		- denomi : 分子
+
+
+## Lambda Project
+- ein System zum Schreiben und Bearbeiten von mathematischen Texten für blinde Schüler und Studierende
+- Linearer Lambda-Math-Code
+	- direkt von MathML abgeleitet
+	- mächtiges und flexibles MathematikschriftSystem, das zu den bekannten Standards kompatibel insight 
+- ![[Pasted image 20240206132656.png]]
+
+
+## HTML und Mathematik 
+![[Pasted image 20240206124604.png]]
+其实也不是很好，引出MathML
+
 
 ## MathML (数学标记语言)
+
+MathML 是一种用于描述数学和科学公式的标记语言。它的全称是 "Mathematical Markup Language"，即数学标记语言。MathML 是由 W3C（World Wide Web Consortium）制定的一种XML（可扩展标记语言）应用，旨在使数学内容能够在Web页面中以结构化的方式呈现和交互。
 
 - Token Elemente
 - mi für identities (Variablen)
 - mo für Operatoren
 - mn für Zahlen
+- `<apply>` Funktionen
 
 
 ![[Pasted image 20240202181606.png]]
 
 - `<msup>`上标
 - `apply` 代表Funktion
+## OCR Analyse
 
+- Analysieren von Bildschirminhalten durch Schrifterkennung (OCR)
+- Erzeugt LaTeX, ASCIIMaths oder MathsML aus Pixeln
+- ![[Pasted image 20240206133554.png]]
 
 # Multimedia Barriere
 

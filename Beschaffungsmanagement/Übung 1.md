@@ -4,7 +4,7 @@
 	- Lieferantenidentifikation
 	- Lieferanteneingrenzung
 - Lieferantenanalyse und Lieferantenbewertung
-	- [[Übung 1#Lieferanten auswahl|Lieferanten auswahl]] (选出最好的供货商)
+	- [[Beschaffungsmanagement/Übung 1#Lieferanten auswahl|Lieferanten auswahl]] (选出最好的供货商)
 	- Lieferanten controlling （控制实际的运输流）
 
 

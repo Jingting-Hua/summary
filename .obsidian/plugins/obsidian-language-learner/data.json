@@ -1,0 +1,47 @@
+{
+  "use_server": false,
+  "port": 8086,
+  "self_server": false,
+  "self_port": 3002,
+  "native": "zh",
+  "foreign": "en",
+  "popup_search": true,
+  "auto_pron": true,
+  "function_key": "disable",
+  "dictionaries": {
+    "youdao": {
+      "enable": true,
+      "priority": 1
+    },
+    "cambridge": {
+      "enable": true,
+      "priority": 2
+    },
+    "jukuu": {
+      "enable": true,
+      "priority": 3
+    },
+    "hjdict": {
+      "enable": true,
+      "priority": 4
+    },
+    "deepl": {
+      "enable": true,
+      "priority": 5
+    }
+  },
+  "dict_height": "250px",
+  "db_name": "WordDB",
+  "word_database": "Data Science/Dic.md",
+  "review_database": "Data Science/复习.md",
+  "col_delimiter": ",",
+  "auto_refresh_db": true,
+  "default_paragraphs": "4",
+  "font_size": "15px",
+  "font_family": "\"Times New Roman\"",
+  "line_height": "1.8em",
+  "use_machine_trans": true,
+  "word_count": true,
+  "review_prons": "0",
+  "review_delimiter": "?"
+}
