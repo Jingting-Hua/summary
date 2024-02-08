@@ -40,12 +40,12 @@ BFD:
 
 # Wanjin BFD Nachverbessern Plan
 - [x] **VL 1**: 2h 40 min
-- [ ] **VL 2**: 4h
-- [ ] **VL 3**: 1.5h
-**VL 4**: 3h
-**VL 5**: 0
-**VL 6**: 3h
-**VL 7**: 1.5h
+- [x] **VL 2**: 4h
+- [x] **VL 3**: 1.5h
+- [x] **VL 4**: 3h
+- [x] **VL 5**: 0
+- [x] **VL 6**: 3h
+- [x] **VL 7**: 1.5h
 
 # Jingting 
 
