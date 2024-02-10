@@ -4,8 +4,8 @@ Product designers do <mark style="background: #ADCCFFA6;">usability testing</mar
 # [[Übung 5 Evaluation und Statistische Grundlage#^a1c796|Objectives (对象)]]
 
 - [[Vorlesung 1#Barrierefreiheit (Accessiblity)|Accessibility]]
-- [[MCI/Vorlesungen/1.Vorlesung#^a57a8e|Usability ]]
-- [[MCI/Vorlesungen/1.Vorlesung#^cd8d59|Dialogues]]
+- [[1.Vorlesung - Einführung#^a57a8e|Usability ]]
+- [[1.Vorlesung - Einführung#^cd8d59|Dialogues]]
 
 # Basic Process
 
@@ -15,4 +15,4 @@ Product designers do <mark style="background: #ADCCFFA6;">usability testing</mar
 	- Expensive (User-based, But: informative)
 
 
-# [[MCI/Vorlesungen/2.Vorlesung#Testverfahren (Tools) von Usability|Tool overview for Evaluation Phase]]
+# [[2.Vorlesung - Evaluation#Testverfahren (Tools) von Usability|Tool overview for Evaluation Phase]]

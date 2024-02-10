@@ -1,4 +1,4 @@
-# What is [[MCI/Vorlesungen/1.Vorlesung#User Centered Design|User-Centred Design]]? – Principles of UCD
+# What is [[1.Vorlesung - Einführung#User Centered Design|User-Centred Design]]? – Principles of UCD
 
 - Design is based up on an explicit understanding of users, tasks and environments.
 - Users are involved through out design and development.
@@ -21,10 +21,10 @@ User-centred design optimises the product around how users can, want, or need to
 - What are the extreme environments in which product can be accessed in?
 -  Does the interface utilises different input modes, such as touch, speech, gestures or orientation?
 
-## Goal: [[MCI/Vorlesungen/1.Vorlesung#目标：Ziele|Usability]]
+## Goal: [[1.Vorlesung - Einführung#目标：Ziele|Usability]]
 
 
-## 如何评价Acceptanc: [[MCI/Vorlesungen/1.Vorlesung#^86ca36|TAM]]
+## 如何评价Acceptanc: [[1.Vorlesung - Einführung#^86ca36|TAM]]
 
 
 ## User-Centred Design vs. Participatory Design
@@ -47,6 +47,6 @@ User-Centred Design takes inspiration from the following models:
 - 基本四个规则
 - <mark style="background: #ADCCFFA6;">Never go back stepwise</mark>
 
-## [[MCI/Vorlesungen/1.Vorlesung#具体步骤|Phasen]]
+## [[1.Vorlesung - Einführung#具体步骤|Phasen]]
 
 

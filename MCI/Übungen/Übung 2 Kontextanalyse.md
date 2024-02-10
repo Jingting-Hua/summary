@@ -7,4 +7,4 @@
 >在Kontex分析阶段，需要回答这三个问题
 
 
-# [[MCI/Vorlesungen/1.Vorlesung#Kontext festlegen und verstehen ( Aufgabenanalyse )|Kontextanalyse]]
+# [[1.Vorlesung - Einführung#Kontext festlegen und verstehen ( Aufgabenanalyse )|Kontextanalyse]]

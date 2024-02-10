@@ -12,14 +12,14 @@
 
 # Tool overview for User Analysis
 
-## [[MCI/Vorlesungen/1.Vorlesung#Personas|Personas]] 
+## [[1.Vorlesung - Einführung#Personas|Personas]] 
 
-## [[MCI/Vorlesungen/1.Vorlesung#Szenarien|Scenarios]]
+## [[1.Vorlesung - Einführung#Szenarien|Scenarios]]
 
 
-## [[MCI/Vorlesungen/1.Vorlesung#^1cea47|Use Cases]]
+## [[1.Vorlesung - Einführung#^1cea47|Use Cases]]
 
-## [[MCI/Vorlesungen/1.Vorlesung#Mentales Modell|Mental Models]]
+## [[1.Vorlesung - Einführung#Mentales Modell|Mental Models]]
 
 # How to use UCD in combination with standard software development processes?
 
